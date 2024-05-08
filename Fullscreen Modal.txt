@@ -1,0 +1,10 @@
+Fullscreen Modal 
+Another override is the option to pop up a modal that covers the user viewport, available via modifier classes that are placed on a .modal-dialog.
+
+Class	Availability	
+.modal-fullscreen	Always	
+.modal-fullscreen-sm-down	576px	
+.modal-fullscreen-md-down	768px	
+.modal-fullscreen-lg-down	992px	
+.modal-fullscreen-xl-down	1200px	
+.modal-fullscreen-xxl-down	1400px
